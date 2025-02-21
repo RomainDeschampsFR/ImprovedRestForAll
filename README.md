@@ -1,4 +1,5 @@
-![ImprovedRestForAll](https://github.com/user-attachments/assets/9cb7a0bf-2c7d-48db-b2fe-ef178baaea95)
+![image](https://github.com/user-attachments/assets/18f257b6-a644-4cfe-81c4-07703eecd7ae)
+
 
 * This mod allows condition recovery from *Improved Rest* Buff when **Condition Recovery During Rest** is set to *none* (Custom Mode).
 * This particular setting usually makes *Herbal Teas* (and few *recipes*) almost useless.
